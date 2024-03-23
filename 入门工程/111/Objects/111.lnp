@@ -1,0 +1,7 @@
+".\Objects\main.obj",
+".\Objects\nixie.obj",
+".\Objects\delay.obj",
+".\Objects\key.obj",
+".\Objects\Buzzer.obj" 
+TO ".\Objects\111" 
+PRINT(".\Listings\111.m51") RAMSIZE(256) 

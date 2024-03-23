@@ -1,0 +1,5 @@
+".\Objects\51.obj",
+".\Objects\delay.obj",
+".\Objects\nixie.obj" 
+TO ".\Objects\511" 
+PRINT(".\Listings\511.m51") RAMSIZE(256) 

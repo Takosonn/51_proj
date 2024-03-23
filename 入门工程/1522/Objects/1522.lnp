@@ -1,0 +1,7 @@
+".\Objects\MAIN.obj",
+".\Objects\key.obj",
+".\Objects\delay.obj",
+".\Objects\nixie.obj",
+".\Objects\timer0.obj" 
+TO ".\Objects\1522" 
+PRINT(".\Listings\1522.m51") RAMSIZE(256) 

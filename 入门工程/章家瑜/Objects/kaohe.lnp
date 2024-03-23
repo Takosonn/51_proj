@@ -1,0 +1,7 @@
+".\Objects\main.obj",
+".\Objects\Buzzer.obj",
+".\Objects\Delay.obj",
+".\Objects\key.obj",
+".\Objects\LCD1602.obj" 
+TO ".\Objects\kaohe" 
+PRINT(".\Listings\kaohe.m51") RAMSIZE(256) 

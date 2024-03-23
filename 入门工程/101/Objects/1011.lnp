@@ -1,0 +1,6 @@
+".\Objects\min.obj",
+".\Objects\LCD1602.obj",
+".\Objects\DS1302.obj",
+".\Objects\delay.obj" 
+TO ".\Objects\1011" 
+PRINT(".\Listings\1011.m51") RAMSIZE(256) 
